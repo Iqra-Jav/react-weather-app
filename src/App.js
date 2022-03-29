@@ -9,10 +9,8 @@ function App() {
 
         <footer>
           This project was coded by Iqra and is{" "}
-          <a
-            href="https://github.com/Iqra-Jav/react-weather-app"
-            target="_blank"
-          >
+          <a href="https://github.com/Iqra-Jav/react-weather-app">
+            {" "}
             open-sourced on GitHub
           </a>
         </footer>
