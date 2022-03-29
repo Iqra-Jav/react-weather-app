@@ -30,6 +30,8 @@
 
 .Weather canvas {
   margin-right: 10px;
+  display: inline-block;
+  float: left;
 }
 
 .Weather .temperature {
@@ -50,4 +52,5 @@
   margin-top: 6px;
   padding-left: 6px;
   vertical-align: top;
+  text-decoration: none;
 }
